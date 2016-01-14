@@ -1,7 +1,5 @@
 # MIT Pirahã Corpus
 
-Version 1.0
-
 ## Overview
 
 This corpus provides a transcription and word-by-word translation of 1149 sentences of Pirahã that were collected during fieldwork by Steve Sheldon and Dan Everett. Our goal is to provide primary linguistic data from Pirahã in a human- and machine-readable format that includes annotation of the lexicon, morphology, and syntax of the language.
