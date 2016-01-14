@@ -6,7 +6,7 @@ Version 1.0
 
 This corpus provides a transcription and word-by-word translation of 1149 sentences of Pirahã that were collected during fieldwork by Steve Sheldon and Dan Everett. Our goal is to provide primary linguistic data from Pirahã in a human- and machine-readable format that includes annotation of the lexicon, morphology, and syntax of the language.
 
-See the publication "A Corpus Investigation of Syntactic Embedding in Pirahã" by Richard Futrell, Laura K. Stearns, Daniel L. Everett, Steven T. Piantadosi, and Edward Gibson in PLOS ONE.
+See the publication "A Corpus Investigation of Syntactic Embedding in Pirahã" by Richard Futrell, Laura Stearns, Daniel L. Everett, Steven T. Piantadosi, and Edward Gibson in PLOS ONE.
 
 This corpus is distributed under a Attribution-ShareAlike (CC BY-SA) license, allowing free modification and re-distribution of the corpus so long as derivative work is released under the same terms. You may disregard any comments in the source files to the effect that citation is limited.
 
