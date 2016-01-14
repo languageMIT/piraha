@@ -8,6 +8,10 @@ See the publication "A Corpus Investigation of Syntactic Embedding in Pirahã" b
 
 This corpus is distributed under a Attribution-ShareAlike (CC BY-SA) license, allowing free modification and re-distribution of the corpus so long as derivative work is released under the same terms. You may disregard any comments in the source files to the effect that citation is limited.
 
+## Contributing
+
+We welcome any contributions, including suggested changes to the core parsed data. To contribute, [fork this repository](https://help.github.com/articles/fork-a-repo/), make your changes in your fork, and [submit a pull request](https://help.github.com/articles/using-pull-requests/).
+
 ## Data Sources
 
 The majority of the texts are transcriptions of a single speaker describing an event.  Some dialogue appears at the beginning of the `Sept29amfx3` text.  `XigAbaI_almostbittenbysnake`, `Sept29amfx3`, and `panther` were recorded, transcribed, and translated by Daniel L. Everett.  All other texts were initially recorded, transcribed and translated by Steve Sheldon in the 1970s.  Some of the translations, word boundaries, and sentence boundaries have been since been edited to reflect the current best translation.  The original sentence translations have been preserved in the first of the two glosses given above each sentence, except for in `Katosbabyandthefire`, for which these first glosses reflect a 2009 translation by Daniel L. Everett.
